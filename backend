@@ -1,1 +1,23 @@
+// Import the Express module
+const express = require('express');
+const app = express();
+const port = 3000; // Define the port the server will listen on
 
+// Middleware to parse JSON request bodies
+app.use(express.json());
+
+// Define a GET route
+app.get('/api/data', (req, res) => {
+  res.json({ message: 'This is some data from the API!' });
+});
+
+// Define a POST route
+app.post('/api/submit', (req, res) => {
+  const receivedData = req.body; // Access data sent in the request body
+  res.json({ message: 'Data received successfully!', data: receivedData });
+});
+
+// Start the server
+app.listen(port, () => {
+  console.log(`API server listening at http://localhost:${port}`);
+});
