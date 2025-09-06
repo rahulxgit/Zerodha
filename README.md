@@ -142,11 +142,11 @@ npm start
 ## Screenshots
 
 ### Dashboard View
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot]([screenshots/dashboard.png](https://github.com/rahulxgit/Zerodha/blob/main/frontend/public/media/images/dashboard.png))
 *Main dashboard showing the watchlist and holdings overview.*
 
 ### Landing Page
-![Landing Screenshot](screenshots/landing.png)
+![Landing Screenshot]([screenshots/landing.png](https://github.com/rahulxgit/Zerodha/blob/main/frontend/public/media/images/landing.png))
 *Landing page showcasing the platform's features and investment options.*
 
 ---
