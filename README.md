@@ -146,7 +146,7 @@ npm start
 *Main dashboard showing the watchlist and holdings overview.*
 
 ### Landing Page
-![Landing Screenshot]([screenshots/landing.png](https://github.com/rahulxgit/Zerodha/blob/main/frontend/public/media/images/landing.png))
+![Landing Screenshot](https://github.com/rahulxgit/Zerodha/blob/main/frontend/public/media/images/landing.png)
 *Landing page showcasing the platform's features and investment options.*
 
 ---
